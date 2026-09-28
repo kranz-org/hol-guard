@@ -5,6 +5,14 @@ All notable changes to HOL Guard will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.1](https://github.com/hashgraph-online/hol-guard/compare/v3.8.0...v3.8.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* **dashboard:** keep approval gate credentials reachable while gate is off ([#3181](https://github.com/hashgraph-online/hol-guard/issues/3181)) ([3727fbe](https://github.com/hashgraph-online/hol-guard/commit/3727fbeb23bc2cb03c97f960bd36ed941abe37e0))
+* **dashboard:** route approval proof dead-ends to gate setup ([#3183](https://github.com/hashgraph-online/hol-guard/issues/3183)) ([2af6dbd](https://github.com/hashgraph-online/hol-guard/commit/2af6dbd6e2a3e7a26581132e2a951f11ddc84296))
+
 ## [3.8.0](https://github.com/hashgraph-online/hol-guard/compare/v3.7.6...v3.8.0) (2026-09-28)
 
 
